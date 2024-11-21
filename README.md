@@ -4,19 +4,7 @@ This is the PyTorch implementation of the following paper:
 
 Tianwang Jia, Lubin Meng, Siyang Li, Jiajing Liu and Dongrui Wu. Federated Motor Imagery Classification for Privacy-Preserving Brain-Computer Interfaces.
 
-## Usage
 
-### Setup
-
-Please see the `requirements.txt` for environment configuration.
-
-```bash
-pip install -r requirements.txt
-```
-
-### Datasets
-
-Please use the `get_data.py` to download MI data from `moabb`.
 
 ```bash
 cd ./data
