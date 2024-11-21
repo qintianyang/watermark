@@ -7,4 +7,4 @@ data/BNCI2015001/*
 output/*
 !output/.gitkeep
 __pycache__/
-run_scripts/*.log
+run_scripts/*
